@@ -1,0 +1,12 @@
+langchain-community 
+
+langchain
+langgraph
+python-dotenv
+requests
+pydantic
+langchain-google-genai 
+
+streamlit
+pandas
+
